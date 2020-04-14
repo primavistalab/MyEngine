@@ -1,0 +1,971 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\Projects\MyEngine\me_SelectView.dfm" source-language="ru-RU" target-language="en-GB" datatype="delphiform" tool="ETM v10.0" ts="D:\Projects\MyEngine\me_SelectView.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">41299.8574768519</prop>
+        <prop prop-type="OrigDateTime">40835.9454861111</prop>
+        <prop prop-type="XlatDateTime">40835.9454861111</prop>
+        <prop prop-type="Translated">5</prop>
+        <prop prop-type="UnTranslated">89</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:fmSelectView.Left" resname="O:fmSelectView.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">0</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.Top" resname="O:fmSelectView.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">1</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.BorderStyle" resname="O:fmSelectView.BorderStyle">
+        <source>bsDialog</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">2</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.Caption" resname="O:fmSelectView.Caption">
+        <source>'Выбор значения для поля'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">3</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Select displayed value for field'</target>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.ClientHeight" resname="O:fmSelectView.ClientHeight">
+        <source>458</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">4</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.ClientWidth" resname="O:fmSelectView.ClientWidth">
+        <source>471</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">5</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.Color" resname="O:fmSelectView.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">6</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.Font.Charset" resname="O:fmSelectView.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">7</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.Font.Color" resname="O:fmSelectView.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">8</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.Font.Height" resname="O:fmSelectView.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">9</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.Font.Name" resname="O:fmSelectView.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">10</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.Font.Style" resname="O:fmSelectView.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">11</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.OldCreateOrder" resname="O:fmSelectView.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">12</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.Position" resname="O:fmSelectView.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">13</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.OnShow" resname="O:fmSelectView.OnShow">
+        <source>FormShow</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">14</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.PixelsPerInch" resname="O:fmSelectView.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">15</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.TextHeight" resname="O:fmSelectView.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">16</prop>
+          <prop prop-type="Type">TfmSelectView</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.Left" resname="O:fmSelectView.O:Panel1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">17</prop>
+          <prop prop-type="Type">TPanel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.Top" resname="O:fmSelectView.O:Panel1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">18</prop>
+          <prop prop-type="Type">TPanel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.Width" resname="O:fmSelectView.O:Panel1.Width">
+        <source>471</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">19</prop>
+          <prop prop-type="Type">TPanel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.Height" resname="O:fmSelectView.O:Panel1.Height">
+        <source>458</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">20</prop>
+          <prop prop-type="Type">TPanel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.Align" resname="O:fmSelectView.O:Panel1.Align">
+        <source>alClient</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">21</prop>
+          <prop prop-type="Type">TPanel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.TabOrder" resname="O:fmSelectView.O:Panel1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">22</prop>
+          <prop prop-type="Type">TPanel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Left" resname="O:fmSelectView.O:Panel1.O:vlist.Left">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">23</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Top" resname="O:fmSelectView.O:Panel1.O:vlist.Top">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">24</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Width" resname="O:fmSelectView.O:Panel1.O:vlist.Width">
+        <source>392</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">25</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Height" resname="O:fmSelectView.O:Panel1.O:vlist.Height">
+        <source>456</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">26</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.TabStop" resname="O:fmSelectView.O:Panel1.O:vlist.TabStop">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">27</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.AutoComplete" resname="O:fmSelectView.O:Panel1.O:vlist.AutoComplete">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">28</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Align" resname="O:fmSelectView.O:Panel1.O:vlist.Align">
+        <source>alLeft</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">29</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Ctl3D" resname="O:fmSelectView.O:Panel1.O:vlist.Ctl3D">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">30</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Font.Charset" resname="O:fmSelectView.O:Panel1.O:vlist.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">31</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Font.Color" resname="O:fmSelectView.O:Panel1.O:vlist.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">32</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Font.Height" resname="O:fmSelectView.O:Panel1.O:vlist.Font.Height">
+        <source>-27</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">33</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Font.Name" resname="O:fmSelectView.O:Panel1.O:vlist.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">34</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.Font.Style" resname="O:fmSelectView.O:Panel1.O:vlist.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">35</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.ItemHeight" resname="O:fmSelectView.O:Panel1.O:vlist.ItemHeight">
+        <source>33</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">36</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.ParentCtl3D" resname="O:fmSelectView.O:Panel1.O:vlist.ParentCtl3D">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">37</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.ParentFont" resname="O:fmSelectView.O:Panel1.O:vlist.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">38</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.TabOrder" resname="O:fmSelectView.O:Panel1.O:vlist.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">39</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:vlist.OnDblClick" resname="O:fmSelectView.O:Panel1.O:vlist.OnDblClick">
+        <source>vlistDblClick</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">40</prop>
+          <prop prop-type="Type">TListBox</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.Left" resname="O:fmSelectView.O:Panel1.O:bbUp.Left">
+        <source>399</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">41</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.Top" resname="O:fmSelectView.O:Panel1.O:bbUp.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">42</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.Width" resname="O:fmSelectView.O:Panel1.O:bbUp.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">43</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.Height" resname="O:fmSelectView.O:Panel1.O:bbUp.Height">
+        <source>63</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">44</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.Hint" resname="O:fmSelectView.O:Panel1.O:bbUp.Hint">
+        <source>'Вверх на 1 позицию'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">45</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Up one'</target>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.ParentShowHint" resname="O:fmSelectView.O:Panel1.O:bbUp.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">46</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.ShowHint" resname="O:fmSelectView.O:Panel1.O:bbUp.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">47</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.TabOrder" resname="O:fmSelectView.O:Panel1.O:bbUp.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">48</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.OnClick" resname="O:fmSelectView.O:Panel1.O:bbUp.OnClick">
+        <source>bbUpClick</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">49</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.OnMouseDown" resname="O:fmSelectView.O:Panel1.O:bbUp.OnMouseDown">
+        <source>bbUpMouseDown</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">50</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.OnMouseUp" resname="O:fmSelectView.O:Panel1.O:bbUp.OnMouseUp">
+        <source>bbUpMouseUp</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">51</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbUp.Glyph.Data" resname="O:fmSelectView.O:Panel1.O:bbUp.Glyph.Data">
+        <source>360C0000424D360C000000000000360000002800000020000000200000000100180000000000000C000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF707070D0D0D0FFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFD0D0D0707070FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF606060000000101010D0D0D0FFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFD0D0D0101010000000606060FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF606060000000000000000000101010D0D0D0FFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFD0D0D0101010000000000000000000606060FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF606060000000000000000000000000000000101010D0D0D0FFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFD0D0D0101010000000000000000000000000000000606060FFFFFFFFFFFFFFFFFF606060000000000000000000000000000000000000000000101010D0D0D0C0C0C0000000000000000000000000000000000000000000000000C0C0C0D0D0D0101010000000000000000000000000000000000000000000606060FFFFFF606060000000000000000000000000000000000000000000000000000000101010909090000000000000000000000000000000000000000000000000909090101010000000000000000000000000000000000000000000000000000000606060303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">52</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+          <prop prop-type="Open">{</prop>
+          <prop prop-type="Close">}</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.Left" resname="O:fmSelectView.O:Panel1.O:bbDown.Left">
+        <source>399</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">53</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.Top" resname="O:fmSelectView.O:Panel1.O:bbDown.Top">
+        <source>71</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">54</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.Width" resname="O:fmSelectView.O:Panel1.O:bbDown.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">55</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.Height" resname="O:fmSelectView.O:Panel1.O:bbDown.Height">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">56</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.Hint" resname="O:fmSelectView.O:Panel1.O:bbDown.Hint">
+        <source>'Вниз на 1 позицию'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">57</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Down one'</target>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.ParentShowHint" resname="O:fmSelectView.O:Panel1.O:bbDown.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">58</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.ShowHint" resname="O:fmSelectView.O:Panel1.O:bbDown.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">59</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.TabOrder" resname="O:fmSelectView.O:Panel1.O:bbDown.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">60</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.OnClick" resname="O:fmSelectView.O:Panel1.O:bbDown.OnClick">
+        <source>bbDownClick</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">61</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.OnMouseDown" resname="O:fmSelectView.O:Panel1.O:bbDown.OnMouseDown">
+        <source>bbDownMouseDown</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">62</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.OnMouseUp" resname="O:fmSelectView.O:Panel1.O:bbDown.OnMouseUp">
+        <source>bbDownMouseUp</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">63</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:bbDown.Glyph.Data" resname="O:fmSelectView.O:Panel1.O:bbDown.Glyph.Data">
+        <source>360C0000424D360C000000000000360000002800000020000000200000000100180000000000000C000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFFFFFFFFFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0FFFFFFF0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030F0F0F0303030000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000303030606060000000000000000000000000000000000000000000000000000000101010909090000000000000000000000000000000000000000000000000909090101010000000000000000000000000000000000000000000000000000000606060FFFFFF606060000000000000000000000000000000000000000000101010D0D0D0C0C0C0000000000000000000000000000000000000000000000000C0C0C0D0D0D0101010000000000000000000000000000000000000000000606060FFFFFFFFFFFFFFFFFF606060000000000000000000000000000000101010D0D0D0FFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFD0D0D0101010000000000000000000000000000000606060FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF606060000000000000000000101010D0D0D0FFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFD0D0D0101010000000000000000000606060FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF606060000000101010D0D0D0FFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFD0D0D0101010000000606060FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF707070D0D0D0FFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFD0D0D0707070FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC0C0C0000000000000000000000000000000000000000000000000C0C0C0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">64</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+          <prop prop-type="Open">{</prop>
+          <prop prop-type="Close">}</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.Left" resname="O:fmSelectView.O:Panel1.O:BitBtn1.Left">
+        <source>399</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">65</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.Top" resname="O:fmSelectView.O:Panel1.O:BitBtn1.Top">
+        <source>158</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">66</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.Width" resname="O:fmSelectView.O:Panel1.O:BitBtn1.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">67</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.Height" resname="O:fmSelectView.O:Panel1.O:BitBtn1.Height">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">68</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.Hint" resname="O:fmSelectView.O:Panel1.O:BitBtn1.Hint">
+        <source>'Принять'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">69</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Accept'</target>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.ModalResult" resname="O:fmSelectView.O:Panel1.O:BitBtn1.ModalResult">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">70</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.ParentShowHint" resname="O:fmSelectView.O:Panel1.O:BitBtn1.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">71</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.ShowHint" resname="O:fmSelectView.O:Panel1.O:BitBtn1.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">72</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.TabOrder" resname="O:fmSelectView.O:Panel1.O:BitBtn1.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">73</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.OnClick" resname="O:fmSelectView.O:Panel1.O:BitBtn1.OnClick">
+        <source>BitBtn1Click</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">74</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn1.Glyph.Data" resname="O:fmSelectView.O:Panel1.O:BitBtn1.Glyph.Data">
+        <source>361B0000424D361B000000000000360000002800000030000000300000000100180000000000001B000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD1C9C2816B58826B59C7BDB5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF2F0EE705B44577531577731624C31C5BEB4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBFB8AC5E582F46A23E3EB14657772F635134D5D1C9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F6F5786B5154742F3ABE5435CF6942AD4455762E695C3EDCDAD2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC4C1B4575B2B479C3940CF6D4ED57D3DD17040B14753752D6B6443DFDED7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF87846851752B40B95051D9835AD78654D88441D27443AD4252712B6D6947E4E5DEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDBDCD356612E489B3643D07163DD9162DB8F60DA8D5ADB8B41D27444A93F506E296F704CF1F2EEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F94754D732740B94D5ADD8F70DF9B6BDE9768DD9565DD935DDD9143D17244A53A4E6D277D835FF5F6F3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEAECE657663146943248D37677E4A478E2A275E2A072E19E6EE09C6CE09A60E09645D27444A73C4B6C2687916DF7F8F6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAAB39848712441B94C66E39C87E7AF81E6AA7EE5A97BE5A778E4A474E3A272E3A065E29C46D57844A638486C2486946EFAFBF9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1F3EF5B723B44912A4CD1738AEBB68EE9B58AE9B287E8B184E7AF80E7AC7CE6A978E5A675E5A466E49F45D27343A0344669228D9D77FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB7C3AA426D203FB1416AE49F9BEDC095ECBB95ECBB94ECBC8EEAB788E9B384E8B17FE8AE7AE7AA78E6A964E6A145D06E439D2F436A21A2B291FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F9F662804740882646D06E8EEFBEA3EFC6A1EFC58CEDBA75E8AB8BEDBA94EDBD8CEBB886EAB482EAB17DE9AE79E8AC62E7A244CF6B419C2D3F691FAEBEA1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBCCBB13C711E3EB03A6DE6A3ADF3CFAEF2CE95F0C44ED67B3EBD484ED77C78ECB397EFC291EDBC8AECB884EBB47EEAB079EAAF63E8A646D2703F9B2B406F23AFC2A3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7596603B892046CD629CF3C9BCF5D89DF3CB53DE893CAB343B811D3DA32E43CC6268E9A791F0C294EEC08AEEBB84EDB77EECB379EBB163EAA745D0683D97283C6D20B7C9ADFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD8E2D33E76223BAD3562E59CC2F8DFA6F5D153E08C3CB33A377A1C4D7A3437711A3A92233EC14C58E29385F1C095F0C38BEFBD83EDB97EEDB578ECB35FEBA845CC603B93233D7323CDDBC6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7FA46F35871C40CC5B9BF5CCB9F9DE5BE3943BB63935801B6F995DEBF1E9B8CCAF457B2D36851C3CB3394BDA7C73EFB691F2C58CF0BF82EEBB7CEDB776EEB55CEAA543CA59389320457B2DD5E2D0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE8F0E63D7B2536A72F69E89FB6FAE160E69939B73C328119689756F2F6F1FFFFFFFFFFFFE0EADC749F63317C1837A02742CB5A61E9A183F3C28BF1C281F0BC7AEFB972EFB65BECA743CB5B35901E4F873ADBE7D7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9FBF952F851743CC5C88F8CD68EAA438BB3B2F8317689A58F5F9F4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFA6C39C397B22318C1A3ABB3C50E18876F3BF86F3C480F1BE77F0B970F1B95BEEAB42CA5332901B4B8737E0EBDDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1F6F043873134A52653E6925EEDA63BC03F2D8717629A52F5F8F4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD5E4D15C964C2B821635AB2A45D76C64F0B07FF5C57DF3BF74F1BB6DF2BA59EEA940C64D2D8B184F8D3EEFF5EDFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFACCCA528821341C85254EC9C3CC3422B8E17569547EAF2E8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9FBF886B37B2C7F182F9D1D3DC74A59EB9D74F6C379F5C271F4BC69F4BD57ECA23DC3432A8B16649E56F1F6F0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF5599462EA0234CE0773EC649268C14539846EFF5EEFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFC8DEC349913A25891234B52F4ADE7767F6BD73F7C46EF5BE65F6BE58EFA73DC747268C1465A258F9FCF9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF4493372EA6263BC73C269317519944EAF2E8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFECF4EB7FB57520820F2CA51F41D2575BF0A86DFAC76AF7C062F8C258F0A738C23B238B116FAB64FCFDFCFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF98C5911F8811208D13519D45E9F3E8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAFD2A9328C2423961336C23953E98F66FAC764F9C362FBC457EF9E35BE351E880E77B26EFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBFDFBB7D8B2A5CEA0ECF4EBFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD8EAD657A34D1B8B0D2DB42448DF6E61FAC065FDCB65FECC54ED9530B9291B890C92C48CFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8FBF897C892268F1B21A2153BCF4A56F19D67FFCE68FFD154ED922EBB2B178A0B99C994FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFD0E7CE48A14016930A2ABA254CE67B65FEC86CFFDC55F0962AB824158B0AA3D1A0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF3F9F378BD73128D091FAC153FD85660F8B56BFFDC4FEB8525B31E138C0AAED8ABFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFB8DDB62A9A24169F0D31C83454ED916AFFD74CE77C20AF1715910DC5E4C4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE3F2E256B1530C950522B51C47E06E63FCBF49E3721EAF161E9918D0EACFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEFEFEA6D7A41E9D1A12A30A36CD4157F19A4AE3741AAD1743AD41FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDBEFDB44AF44089B0326BD2648E2692FC8341EA11BFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9FCF981CB8103990215AD1113AC1341B241FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBCE4BC36AC3630AA30C8E9C8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">75</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+          <prop prop-type="Open">{</prop>
+          <prop prop-type="Close">}</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn2.Left" resname="O:fmSelectView.O:Panel1.O:BitBtn2.Left">
+        <source>399</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">76</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn2.Top" resname="O:fmSelectView.O:Panel1.O:BitBtn2.Top">
+        <source>387</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">77</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn2.Width" resname="O:fmSelectView.O:Panel1.O:BitBtn2.Width">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">78</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn2.Height" resname="O:fmSelectView.O:Panel1.O:BitBtn2.Height">
+        <source>65</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">79</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn2.Hint" resname="O:fmSelectView.O:Panel1.O:BitBtn2.Hint">
+        <source>'Отмена, закрыть окно'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">80</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Cancel'</target>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn2.ModalResult" resname="O:fmSelectView.O:Panel1.O:BitBtn2.ModalResult">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">81</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn2.ParentShowHint" resname="O:fmSelectView.O:Panel1.O:BitBtn2.ParentShowHint">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">82</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn2.ShowHint" resname="O:fmSelectView.O:Panel1.O:BitBtn2.ShowHint">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">83</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn2.TabOrder" resname="O:fmSelectView.O:Panel1.O:BitBtn2.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">84</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:Panel1.O:BitBtn2.Glyph.Data" resname="O:fmSelectView.O:Panel1.O:BitBtn2.Glyph.Data">
+        <source>360C0000424D360C000000000000360000002800000020000000200000000100180000000000000C000000000000000000000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEEEEF86767C03E3EB75A5ABCE2E2F3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEBEBF85B5BC73737C25656C6DFDFF4FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF4F4FA5B5BB74747D23C3CF93B3BDD4040B1DEDEF1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEDEDF84A4AC04242DD6464F85959E14343BEE5E5F6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7FB6161B75050CE3333FD0000F11C1CF73A3ADB4141B2E1E1F3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1F1F94F4FC03838D85050F73F3FEF6565FC6060DE4646BDE8E8F7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEAEAF55C5CB45757CD3636FD0000F40000EF0000EB1818F33030DD3D3DB2DBDBF0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE6E6F54848BC3030D94343F33838EA4141EE4444F16E6EFC6B6BDF4444BDDCDCF2FFFFFFFFFFFFFFFFFFFFFFFF7070BD5A5ACE3D3DFF0000F70000F20000EF0000EB0000E61313F02A2AE03D3DB2E0E0F2FFFFFFFFFFFFFFFFFFFFFFFFEFEFF84C4CBD2B2BDB3A3AF13030E53A3AEA4242EE4949F14C4CF57A7AFF7373E15757C5FFFFFFFFFFFFFFFFFFFFFFFF4444A76565F40000FF0000F60000F20000EF0000EB0000E80000E30E0EED2121DC3E3EB2E1E1F3FFFFFFFFFFFFECECF74E4EBB2121D62F2FEE2828E23232E63A3AEA4242EE4949F15050F55555FC9595FF4242C1FFFFFFFFFFFFFFFFFFFFFFFF7878BF5757C64444FF0000F90000F20000EF0000EB0000E80000E40000DE0C0CE91919DA3D3DB2E3E3F3F1F1F95050BA1818D42424EB2121DD2A2AE33232E73A3AEA4242EE4949F14D4DF68080FF6D6DDC5E5EC7FFFFFFFFFFFFFFFFFFFFFFFFF3F3F96B6BB75353C23E3EFD0000F40000EE0000EB0000E80000E40000E00000DA0808E61010DC3535B03D3DB01010D61919E91A1ADA2323E02A2AE33232E73A3AEA4141EE4545F17272FD6161D84D4DC0E7E7F6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF7F7FB6C6CB84D4DC53838FD0000F10000EB0000E80000E40000E00000DC0000D60404E20808DA0909D60E0EE51111D61A1ADC2323E02A2AE33232E73A3AEA3E3EEE6868FB5A5AD94D4DBEEDEDF8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFBFBFD6868B54A4AC93333FB0000EC0000E70000E40000E00000DC0000D90000D20000DF0303E10B0BD21212D81A1ADB2323E02A2AE33131E73636EA5D5DF95757DC4C4CBDEFEFF9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1F1F86767B54141C42C2CF60000E80000E40000E00000DC0000D80000D50000CF0303CE0B0BD41212D81A1ADB2323E02A2AE32F2FE65252F64A4AD74A4ABBE6E6F5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAFAFC6E6EB73939C32626F60000E50000DF0000DC0000D70000D40000CE0000CE0808D31111D81A1ADB2323DF2828E24747F34141D55050BBF1F1F9FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8FB6C6CB73535C91F1FF30000E00000DB0000D70707D60B0BD40C0CD30D0DD50F0FD71818DB2121DE3B3BF03B3BD74F4FB9EDEDF8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF9F9FC5252AA2F2FC71313EC1919E55656F56060F76464F86565F86060F75A5AF43333E52929EA3434D63A3AAEF4F4FAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F74C4CA92A2ACD1818ED5B5BF68989FF8383FF8282FF8282FF8383FF8686FF6D6DF83535ED3131D93838B0E6E6F5FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEEEEF65858AB3434D11B1BF35E5EF59191FF8989FF8989FF8A8AFF8A8AFF8989FF8989FF8F8FFF7474F73F3FF13D3DDD3F3FB2DEDEF1FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1F1F85D5DAB3939CB2020F76464F69E9EFF9494FF9393FF9494FF9A9AFF9C9CFF9494FF9393FF9393FF9B9BFF7D7DF84B4BF44545DB4040B2E1E1F3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFE7E7F25A5AA84242CC2828F86E6EF9A8A8FFA0A0FF9F9FFFA0A0FFAAAAFF6C6CEF6161EBA8A8FFA0A0FF9F9FFF9E9EFFA5A5FF8888F95454F65050DC3D3DB1DADAF0FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0F0F75D5DA84B4BD12929FC7474F9B7B7FFAAAAFFA9A9FFAAAAFFB9B9FF7A7AF00606E30101E36B6BECB7B7FFACACFFA9A9FFAAAAFFB2B2FF9191FA5F5FFA5D5DE03F3FB1E0E0F2FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEDEDF55E5EA65151CB2D2DFF7878FBC1C1FFB6B6FFB4B4FFB5B5FFC1C1FF8080F10A0AE80707CB0A0AC50A0AE77373EEC0C0FFB5B5FFB4B4FFB5B5FFBCBCFF9B9BFB6A6AFD6262DE4040B1E1E1F3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFEEEEF66161A55858C73333FE8080FBCCCCFFBFBFFFBFBFFFC0C0FFD0D0FF8A8AF40D0DEC0D0DD04B4BA95353AA1010C81414EC8181F1CECEFFC1C1FFBFBFFFBFBFFFC7C7FFA4A4FC7474FE6A6ADB4141B1DEDEF1FFFFFFFFFFFFFFFFFFFFFFFF7575B25B5BC74545FF8989FED9D9FFCCCCFFCACAFFCACAFFDADAFF8F8FF41616ED1414CA5858ACEEEEF6F8F8FB6C6CB71616C22424EC8888F1D6D6FFCCCCFFCACAFFCBCBFFD3D3FFAFAFFE8888FF7474DD5A5ABDFFFFFFFFFFFFFFFFFFFFFFFF4E4E9A5959F24949FFEAEAFFD8D8FFD5D5FFD7D7FFE6E6FF9494F61616F21D1DCB5B5BABEEEEF6FFFFFFFFFFFFF7F7FB6F6FB82020C42B2BF18F8FF4E1E1FFD7D7FFD5D5FFD6D6FFE4E4FF9696FF8F8FFE4747B6FFFFFFFFFFFFFFFFFFFFFFFF8888BA5858B84747FF7B7BFFF2F2FFE3E3FFF2F2FF9C9CF71B1BF52424CF5B5BAAF0F0F7FFFFFFFFFFFFFFFFFFFFFFFFFBFBFD6969B62727C83636F39B9BF5EEEEFFE2E2FFEDEDFFB0B0FE8484FF6767D16767C0FFFFFFFFFFFFFFFFFFFFFFFFF5F5F97878B05353B53A3AFB8282FCFFFFFFA4A4F92020F62D2DCA5A5AA7E8E8F3FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF1F1F86767B52D2DC44545F4A8A8F8FDFDFFB6B6FC7575FD5C5CCD5757B7E9E9F6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFD7F7FB24B4BB63B3BFD5757FB3232FB3333C66161A8F2F2F8FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFAFAFC6D6DB83232C35757F98888FA7272FE5454CC5F5FB7F7F7FBFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFDFDFD7A7AB04747B93838ED3A3AC76060A5EEEEF6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8F8FB6A6AB73E3EC75A5AEF5050CD5C5CB5F4F4FAFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF6F6F98787BA4D4D9D7575B2F0F0F6FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF4F4FA7878BF3939A76969BAEEEEF7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">85</prop>
+          <prop prop-type="Type">TBitBtn</prop>
+          <prop prop-type="Localize">1</prop>
+          <prop prop-type="Open">{</prop>
+          <prop prop-type="Close">}</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:tmDown.Enabled" resname="O:fmSelectView.O:tmDown.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">86</prop>
+          <prop prop-type="Type">TTimer</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:tmDown.OnTimer" resname="O:fmSelectView.O:tmDown.OnTimer">
+        <source>tmDownTimer</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">87</prop>
+          <prop prop-type="Type">TTimer</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:tmDown.Left" resname="O:fmSelectView.O:tmDown.Left">
+        <source>400</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">88</prop>
+          <prop prop-type="Type">TTimer</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:tmDown.Top" resname="O:fmSelectView.O:tmDown.Top">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">89</prop>
+          <prop prop-type="Type">TTimer</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:tmUp.Enabled" resname="O:fmSelectView.O:tmUp.Enabled">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">90</prop>
+          <prop prop-type="Type">TTimer</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:tmUp.OnTimer" resname="O:fmSelectView.O:tmUp.OnTimer">
+        <source>tmUpTimer</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">91</prop>
+          <prop prop-type="Type">TTimer</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:tmUp.Left" resname="O:fmSelectView.O:tmUp.Left">
+        <source>392</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">92</prop>
+          <prop prop-type="Type">TTimer</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSelectView.O:tmUp.Top" resname="O:fmSelectView.O:tmUp.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228728935</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">93</prop>
+          <prop prop-type="Type">TTimer</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

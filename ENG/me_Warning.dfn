@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\Projects\MyEngine\me_Warning.dfm" source-language="ru-RU" target-language="en-GB" datatype="delphiform" tool="ETM v10.0" ts="D:\Projects\MyEngine\me_Warning.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">41299.8163425926</prop>
+        <prop prop-type="OrigDateTime">40687.8275925926</prop>
+        <prop prop-type="XlatDateTime">40687.8275925926</prop>
+        <prop prop-type="Translated">4</prop>
+        <prop prop-type="UnTranslated">68</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:fmWarning.Left" resname="O:fmWarning.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">0</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.Top" resname="O:fmWarning.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">1</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.BorderStyle" resname="O:fmWarning.BorderStyle">
+        <source>bsNone</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">2</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.Caption" resname="O:fmWarning.Caption">
+        <source>'fmWarning'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">3</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.ClientHeight" resname="O:fmWarning.ClientHeight">
+        <source>323</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">4</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.ClientWidth" resname="O:fmWarning.ClientWidth">
+        <source>527</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">5</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.Color" resname="O:fmWarning.Color">
+        <source>clGrayText</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">6</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.Font.Charset" resname="O:fmWarning.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">7</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.Font.Color" resname="O:fmWarning.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">8</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.Font.Height" resname="O:fmWarning.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">9</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.Font.Name" resname="O:fmWarning.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">10</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.Font.Style" resname="O:fmWarning.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">11</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.FormStyle" resname="O:fmWarning.FormStyle">
+        <source>fsStayOnTop</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">12</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.OldCreateOrder" resname="O:fmWarning.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">13</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.Position" resname="O:fmWarning.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">14</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.OnShow" resname="O:fmWarning.OnShow">
+        <source>FormShow</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">15</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.PixelsPerInch" resname="O:fmWarning.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.9228835648</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">16</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.TextHeight" resname="O:fmWarning.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">17</prop>
+          <prop prop-type="Type">TfmWarning</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Left" resname="O:fmWarning.O:Label1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">18</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Top" resname="O:fmWarning.O:Label1.Top">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">19</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Width" resname="O:fmWarning.O:Label1.Width">
+        <source>233</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">20</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Height" resname="O:fmWarning.O:Label1.Height">
+        <source>58</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">21</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Caption" resname="O:fmWarning.O:Label1.Caption">
+        <source>'Внимание!'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">22</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Warning!'</target>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Font.Charset" resname="O:fmWarning.O:Label1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">23</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Font.Color" resname="O:fmWarning.O:Label1.Font.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">24</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Font.Height" resname="O:fmWarning.O:Label1.Font.Height">
+        <source>-48</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">25</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Font.Name" resname="O:fmWarning.O:Label1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">26</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Font.Style" resname="O:fmWarning.O:Label1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">27</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.ParentFont" resname="O:fmWarning.O:Label1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">28</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label1.Transparent" resname="O:fmWarning.O:Label1.Transparent">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">29</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Left" resname="O:fmWarning.O:Label2.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">30</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Top" resname="O:fmWarning.O:Label2.Top">
+        <source>80</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">31</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Width" resname="O:fmWarning.O:Label2.Width">
+        <source>489</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">32</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Height" resname="O:fmWarning.O:Label2.Height">
+        <source>169</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">33</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.AutoSize" resname="O:fmWarning.O:Label2.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">34</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Caption" resname="O:fmWarning.O:Label2.Caption">
+        <source>'Не управляйте программой во время движения. Отвлечение может привести к аварии. Вы несете всю ответственность и риск при использовании данной программы.'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">35</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'Do not operate the program while driving. All risks are carrying themselves.'</target>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Color" resname="O:fmWarning.O:Label2.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">36</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Font.Charset" resname="O:fmWarning.O:Label2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">37</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Font.Color" resname="O:fmWarning.O:Label2.Font.Color">
+        <source>clWhite</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">38</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Font.Height" resname="O:fmWarning.O:Label2.Font.Height">
+        <source>-27</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">39</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Font.Name" resname="O:fmWarning.O:Label2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">40</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Font.Style" resname="O:fmWarning.O:Label2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">41</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.ParentColor" resname="O:fmWarning.O:Label2.ParentColor">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">42</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.ParentFont" resname="O:fmWarning.O:Label2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">43</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.Transparent" resname="O:fmWarning.O:Label2.Transparent">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">44</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Label2.WordWrap" resname="O:fmWarning.O:Label2.WordWrap">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">45</prop>
+          <prop prop-type="Type">TLabel</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.Left" resname="O:fmWarning.O:Button1.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">46</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.Top" resname="O:fmWarning.O:Button1.Top">
+        <source>280</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">47</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.Width" resname="O:fmWarning.O:Button1.Width">
+        <source>233</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">48</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.Height" resname="O:fmWarning.O:Button1.Height">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">49</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.Caption" resname="O:fmWarning.O:Button1.Caption">
+        <source>'Согласен - продолжить'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">50</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'I agree - continute'</target>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.Font.Charset" resname="O:fmWarning.O:Button1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">51</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.Font.Color" resname="O:fmWarning.O:Button1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">52</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.Font.Height" resname="O:fmWarning.O:Button1.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">53</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.Font.Name" resname="O:fmWarning.O:Button1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">54</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.Font.Style" resname="O:fmWarning.O:Button1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">55</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.ParentFont" resname="O:fmWarning.O:Button1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">56</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.TabOrder" resname="O:fmWarning.O:Button1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">57</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button1.OnClick" resname="O:fmWarning.O:Button1.OnClick">
+        <source>Button1Click</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">58</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.Left" resname="O:fmWarning.O:Button2.Left">
+        <source>272</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">59</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.Top" resname="O:fmWarning.O:Button2.Top">
+        <source>280</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">60</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.Width" resname="O:fmWarning.O:Button2.Width">
+        <source>233</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">61</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.Height" resname="O:fmWarning.O:Button2.Height">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">62</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.Caption" resname="O:fmWarning.O:Button2.Caption">
+        <source>'Не согласен - выйти'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">1</prop>
+          <prop prop-type="Order">63</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+        <target>'I disagree - close'</target>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.Font.Charset" resname="O:fmWarning.O:Button2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">64</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.Font.Color" resname="O:fmWarning.O:Button2.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">65</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.Font.Height" resname="O:fmWarning.O:Button2.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">66</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.Font.Name" resname="O:fmWarning.O:Button2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">67</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.Font.Style" resname="O:fmWarning.O:Button2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">68</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.ParentFont" resname="O:fmWarning.O:Button2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">69</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.TabOrder" resname="O:fmWarning.O:Button2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">70</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmWarning.O:Button2.OnClick" resname="O:fmWarning.O:Button2.OnClick">
+        <source>Button2Click</source>
+        <prop-group name="ITEFieldProp">
+          <prop prop-type="Created">41293.92288375</prop>
+          <prop prop-type="Status">0</prop>
+          <prop prop-type="Order">71</prop>
+          <prop prop-type="Type">TButton</prop>
+          <prop prop-type="Localize">1</prop>
+        </prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

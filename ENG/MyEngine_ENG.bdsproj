@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">W32ResourceDLL.Personality</Option>
+      <Option Name="ProjectType">ResourceDLL</Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{09F3E0F7-39E8-48BB-B454-5C5759AC4363}</Option>
+    </Option>
+  </PersonalityInfo>
+  <W32ResourceDLL.Personality>
+    <Source>
+      <Source Name="MainSource">D:\Projects\MyEngine\ENG\MyEngine.dpr</Source>
+    </Source>
+    <Options>
+      <Options Name="BaseLang">1049</Options>
+      <Options Name="TargetName">..\MyEngine.ENG</Options>
+    </Options>
+    <VersionInfo>
+      <VersionInfo Name="IncludeVerInfo">True</VersionInfo>
+      <VersionInfo Name="AutoIncBuild">False</VersionInfo>
+      <VersionInfo Name="MajorVer">1</VersionInfo>
+      <VersionInfo Name="MinorVer">0</VersionInfo>
+      <VersionInfo Name="Release">0</VersionInfo>
+      <VersionInfo Name="Build">0</VersionInfo>
+      <VersionInfo Name="Debug">False</VersionInfo>
+      <VersionInfo Name="PreRelease">False</VersionInfo>
+      <VersionInfo Name="Special">False</VersionInfo>
+      <VersionInfo Name="Private">False</VersionInfo>
+      <VersionInfo Name="DLL">False</VersionInfo>
+      <VersionInfo Name="Locale">2057</VersionInfo>
+      <VersionInfo Name="CodePage">1252</VersionInfo>
+    </VersionInfo>
+    <VersionInfoKeys>
+      <VersionInfoKeys Name="CompanyName"></VersionInfoKeys>
+      <VersionInfoKeys Name="FileDescription"></VersionInfoKeys>
+      <VersionInfoKeys Name="FileVersion">1.0.0.0</VersionInfoKeys>
+      <VersionInfoKeys Name="InternalName"></VersionInfoKeys>
+      <VersionInfoKeys Name="LegalCopyright"></VersionInfoKeys>
+      <VersionInfoKeys Name="LegalTrademarks"></VersionInfoKeys>
+      <VersionInfoKeys Name="OriginalFilename"></VersionInfoKeys>
+      <VersionInfoKeys Name="ProductName"></VersionInfoKeys>
+      <VersionInfoKeys Name="ProductVersion">1.0.0.0</VersionInfoKeys>
+      <VersionInfoKeys Name="Comments"></VersionInfoKeys>
+    </VersionInfoKeys>
+    <FileList>
+      <File FileName="me_FuelTank.dfm" ContainerId="W32Form" ModuleName="me_FuelTank.dfm"/>
+      <File FileName="me_MainForm.dfm" ContainerId="W32Form" ModuleName="me_MainForm.dfm"/>
+      <File FileName="me_Reset.dfm" ContainerId="W32Form" ModuleName="me_Reset.dfm"/>
+      <File FileName="me_SelectView.dfm" ContainerId="W32Form" ModuleName="me_SelectView.dfm"/>
+      <File FileName="me_Settings.dfm" ContainerId="W32Form" ModuleName="me_Settings.dfm"/>
+      <File FileName="me_Warning.dfm" ContainerId="W32Form" ModuleName="me_Warning.dfm"/>
+      <File FileName="MyEngine_DRC.rc" ContainerId="W32RC" ModuleName="MyEngine_DRC.rc"/>
+    </FileList>
+  </W32ResourceDLL.Personality>
+</BorlandProject>

@@ -1,0 +1,2164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="D:\Projects\MyEngine\me_Settings.dfm" source-language="ru-RU" target-language="en-GB" datatype="delphiform" tool="ETM v10.0" ts="D:\Projects\MyEngine\me_Settings.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">41299.8496527778</prop>
+        <prop prop-type="OrigDateTime">41299.8471990741</prop>
+        <prop prop-type="XlatDateTime">40920.7381481481</prop>
+        <prop prop-type="Translated">47</prop>
+        <prop prop-type="UnTranslated">373</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:fmSettings.Left" resname="O:fmSettings.Left">
+        <source>554</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.Top" resname="O:fmSettings.Top">
+        <source>224</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.BorderStyle" resname="O:fmSettings.BorderStyle">
+        <source>bsDialog</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.Caption" resname="O:fmSettings.Caption">
+        <source>'Настройки MyEngine'</source>
+        <target>'MyEngine settings'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.ClientHeight" resname="O:fmSettings.ClientHeight">
+        <source>421</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.ClientWidth" resname="O:fmSettings.ClientWidth">
+        <source>477</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.Color" resname="O:fmSettings.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.Font.Charset" resname="O:fmSettings.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.Font.Color" resname="O:fmSettings.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.Font.Height" resname="O:fmSettings.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.Font.Name" resname="O:fmSettings.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.Font.Style" resname="O:fmSettings.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.FormStyle" resname="O:fmSettings.FormStyle">
+        <source>fsStayOnTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.OldCreateOrder" resname="O:fmSettings.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.Position" resname="O:fmSettings.Position">
+        <source>poMainFormCenter</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.OnShow" resname="O:fmSettings.OnShow">
+        <source>FormShow</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.PixelsPerInch" resname="O:fmSettings.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.TextHeight" resname="O:fmSettings.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TfmSettings</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Image1.Left" resname="O:fmSettings.O:Image1.Left">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Image1.Top" resname="O:fmSettings.O:Image1.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Image1.Width" resname="O:fmSettings.O:Image1.Width">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Image1.Height" resname="O:fmSettings.O:Image1.Height">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TImage</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.Left" resname="O:fmSettings.O:Button1.Left">
+        <source>262</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.Top" resname="O:fmSettings.O:Button1.Top">
+        <source>383</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.Width" resname="O:fmSettings.O:Button1.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.Height" resname="O:fmSettings.O:Button1.Height">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.Caption" resname="O:fmSettings.O:Button1.Caption">
+        <source>'ОК'</source>
+        <target>'OK'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.Font.Charset" resname="O:fmSettings.O:Button1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.Font.Color" resname="O:fmSettings.O:Button1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.Font.Height" resname="O:fmSettings.O:Button1.Font.Height">
+        <source>-21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.Font.Name" resname="O:fmSettings.O:Button1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.Font.Style" resname="O:fmSettings.O:Button1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.ParentFont" resname="O:fmSettings.O:Button1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.TabOrder" resname="O:fmSettings.O:Button1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button1.OnClick" resname="O:fmSettings.O:Button1.OnClick">
+        <source>Button1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.Left" resname="O:fmSettings.O:Button2.Left">
+        <source>372</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.Top" resname="O:fmSettings.O:Button2.Top">
+        <source>383</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.Width" resname="O:fmSettings.O:Button2.Width">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.Height" resname="O:fmSettings.O:Button2.Height">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.Caption" resname="O:fmSettings.O:Button2.Caption">
+        <source>'Отмена'</source>
+        <target>'Cancel'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.Font.Charset" resname="O:fmSettings.O:Button2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.Font.Color" resname="O:fmSettings.O:Button2.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.Font.Height" resname="O:fmSettings.O:Button2.Font.Height">
+        <source>-21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.Font.Name" resname="O:fmSettings.O:Button2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.Font.Style" resname="O:fmSettings.O:Button2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.ParentFont" resname="O:fmSettings.O:Button2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.TabOrder" resname="O:fmSettings.O:Button2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:Button2.OnClick" resname="O:fmSettings.O:Button2.OnClick">
+        <source>Button2Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.Left" resname="O:fmSettings.O:PageControl1.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.Top" resname="O:fmSettings.O:PageControl1.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.Width" resname="O:fmSettings.O:PageControl1.Width">
+        <source>477</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.Height" resname="O:fmSettings.O:PageControl1.Height">
+        <source>377</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.ActivePage" resname="O:fmSettings.O:PageControl1.ActivePage">
+        <source>TabSheet1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.Align" resname="O:fmSettings.O:PageControl1.Align">
+        <source>alTop</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.Font.Charset" resname="O:fmSettings.O:PageControl1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.Font.Color" resname="O:fmSettings.O:PageControl1.Font.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.Font.Height" resname="O:fmSettings.O:PageControl1.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.Font.Name" resname="O:fmSettings.O:PageControl1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.Font.Style" resname="O:fmSettings.O:PageControl1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.ParentFont" resname="O:fmSettings.O:PageControl1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.TabOrder" resname="O:fmSettings.O:PageControl1.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TPageControl</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet1.Caption">
+        <source>'Общее'</source>
+        <target>'Generally'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.Left">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.Top">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.Width">
+        <source>462</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.Height">
+        <source>118</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.Caption">
+        <source>'Соединение'</source>
+        <target>'Connection'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Left">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Top">
+        <source>36</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Width">
+        <source>103</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Caption">
+        <source>'COM порт:'</source>
+        <target>'COM-port:'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Font.Height">
+        <source>-21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:Label1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Left">
+        <source>144</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Top">
+        <source>27</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Width">
+        <source>185</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Height">
+        <source>33</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Style">
+        <source>csDropDownList</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Font.Height">
+        <source>-21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.ItemHeight" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.ItemHeight">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_ports.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.Left">
+        <source>335</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.Top">
+        <source>28</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.Width">
+        <source>105</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.Height">
+        <source>33</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.Caption">
+        <source>'Обновить'</source>
+        <target>'Update'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.OnClick" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:btUpdateCOMs.OnClick">
+        <source>btUpdateCOMsClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Left">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Top">
+        <source>77</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Width">
+        <source>307</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Caption">
+        <source>'Инверсный адаптер'</source>
+        <target>'Inverse adapter'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Font.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox7.O:cb_invert.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.Left">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.Width">
+        <source>462</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.Height">
+        <source>137</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.Caption">
+        <source>'Запуск'</source>
+        <target>'Startup settings'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.Left">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.Top">
+        <source>69</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.Width">
+        <source>318</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.Caption">
+        <source>'Сворачивать при запуске'</source>
+        <target>'Start minimized'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbRunMinimize.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.Left">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.Top">
+        <source>39</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.Width">
+        <source>222</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.Caption">
+        <source>'Автозапуск программы'</source>
+        <target>'Autorun'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbAutoRun.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.Left">
+        <source>10</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.Top">
+        <source>99</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.Width">
+        <source>238</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.Caption">
+        <source>'Скрывать свернутое'</source>
+        <target>'Hide when minimized'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">1</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:GroupBox8.O:cbHideMinimized.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Left">
+        <source>14</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Top">
+        <source>271</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Width">
+        <source>283</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228741667</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Caption">
+        <source>'Предупреждать при выходе'</source>
+        <target>'Ask before exit'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Checked" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.Checked">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.State" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.State">
+        <source>cbChecked</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet1.O:cbAskOnExit.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.Caption">
+        <source>'Пересчет'</source>
+        <target>'Conversion'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet2.Font.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.ImageIndex" resname="O:fmSettings.O:PageControl1.O:TabSheet2.ImageIndex">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Left">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Top">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Width">
+        <source>225</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">153</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Height">
+        <source>110</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">154</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Caption">
+        <source>'Клапан холостого хода'</source>
+        <target>'IAC valve'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">155</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">156</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">157</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">158</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">159</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">160</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">161</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">162</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">163</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">164</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.Width">
+        <source>145</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">165</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">166</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.Caption">
+        <source>'% от 255'</source>
+        <target>'% from 255'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">167</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_proc.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">168</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">169</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.Top">
+        <source>62</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">170</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.Width">
+        <source>145</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">171</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">172</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.Caption">
+        <source>'Шаг'</source>
+        <target>'Step'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">173</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox1.O:rb_xx_step.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">174</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Left">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">175</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Top">
+        <source>119</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">176</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Width">
+        <source>225</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">177</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Height">
+        <source>106</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">178</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Caption">
+        <source>'Температура'</source>
+        <target>'Temperature'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">179</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">180</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">181</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">182</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">183</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">184</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">185</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">186</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">187</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">188</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.Width">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">189</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">190</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.Caption">
+        <source>'Прямая'</source>
+        <target>'Direct'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">191</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_dir.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">192</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">193</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.Top">
+        <source>62</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">194</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.Width">
+        <source>137</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">195</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">196</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.Caption">
+        <source>'Обратная'</source>
+        <target>'Inverse'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">197</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox2.O:rb_temp_nondir.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">198</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Left">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">199</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Top">
+        <source>231</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">200</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Width">
+        <source>225</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">201</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Height">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">202</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Caption">
+        <source>'Дросельная заслонка'</source>
+        <target>'Throttle body'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">203</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">204</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">205</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">206</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">207</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">208</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">209</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">210</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">211</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">212</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.Width">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">213</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">214</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.Caption">
+        <source>'Градусы'</source>
+        <target>'Degrees'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">215</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_grad.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">216</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">217</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.Top">
+        <source>62</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">218</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.Width">
+        <source>137</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">219</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">220</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.Caption">
+        <source>'Проценты'</source>
+        <target>'Percentages'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">221</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox3.O:rb_thr_proc.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">222</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Left">
+        <source>234</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">223</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Top">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">224</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Width">
+        <source>226</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">225</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Height">
+        <source>222</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">226</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Caption">
+        <source>'Измеритель на впуске'</source>
+        <target>'Measuring airflow'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">227</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">228</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">229</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">230</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">231</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">232</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">233</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">234</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.Left">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">235</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">236</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.Width">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">237</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">238</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.Caption">
+        <source>'MAP, кПа'</source>
+        <target>'MAP, kPa'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">239</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_0.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">240</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.Left">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">241</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.Top">
+        <source>62</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">242</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.Width">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">243</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">244</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.Caption">
+        <source>'MAP, мм.рт.ст.'</source>
+        <target>'MAP, mm Hg'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">245</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_1.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">246</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.Left">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">247</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.Top">
+        <source>92</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">248</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.Width">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">249</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">250</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.Caption">
+        <source>'MAP-T, кПа'</source>
+        <target>'MAP-Turbo, kPa'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">251</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_2.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">252</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.Left">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">253</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.Top">
+        <source>122</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">254</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.Width">
+        <source>206</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">255</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">256</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.Caption">
+        <source>'MAP-T, мм.рт.ст.'</source>
+        <target>'MAP-Turbo, mm Hg'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">257</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_3.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">258</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.Left">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">259</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.Top">
+        <source>152</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">260</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.Width">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">261</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">262</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.Caption">
+        <source>'MAF, гр./сек.'</source>
+        <target>'MAF, gr/s'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">263</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_4.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">264</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.Left">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">265</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.Top">
+        <source>182</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">266</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.Width">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">267</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">268</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.Caption">
+        <source>'VAF, В'</source>
+        <target>'VAF, V'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">269</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox4.O:rb_air_5.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">270</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Left">
+        <source>234</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">271</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Top">
+        <source>231</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">272</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Width">
+        <source>226</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">273</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Height">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">274</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Caption">
+        <source>'Коррекция впрыска'</source>
+        <target>'Long Fuel Trim'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">275</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">276</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Font.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">277</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">278</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">279</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">280</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">281</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">282</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.Left">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">283</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.Top">
+        <source>34</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">284</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.Width">
+        <source>145</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">285</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">286</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.Caption">
+        <source>'Проценты'</source>
+        <target>'Percentages'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">287</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_proc.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">288</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.Left">
+        <source>17</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">289</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.Top">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">290</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.Width">
+        <source>113</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">291</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.Height">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">292</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.Caption">
+        <source>'Вольты'</source>
+        <target>'Volts'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">293</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet2.O:GroupBox5.O:rb_corr_v.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">294</prop><prop prop-type="Type">TRadioButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet3.Caption">
+        <source>'Расход'</source>
+        <target>'Consumption'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">295</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.ImageIndex" resname="O:fmSettings.O:PageControl1.O:TabSheet3.ImageIndex">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">296</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:Label8.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:Label8.Left">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">297</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:Label8.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:Label8.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">298</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:Label8.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:Label8.Width">
+        <source>137</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">299</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:Label8.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:Label8.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">300</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:Label8.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:Label8.Caption">
+        <source>'Для двигателя:'</source>
+        <target>'Template:'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">301</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Left">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">302</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Top">
+        <source>61</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">303</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Width">
+        <source>369</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">304</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Height">
+        <source>190</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">305</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Caption">
+        <source>'Настройки впрыска'</source>
+        <target>'Injection settings'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">1</prop><prop prop-type="Order">306</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">307</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Font.Color">
+        <source>clBlack</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">308</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">309</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">310</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">311</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">312</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">313</prop><prop prop-type="Type">TGroupBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label2.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label2.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">314</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label2.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label2.Top">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228743403</prop><prop prop-type="Status">0</prop><prop prop-type="Order">315</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label2.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label2.Width">
+        <source>90</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">316</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label2.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label2.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">317</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label2.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label2.Caption">
+        <source>'Форсунок:'</source>
+        <target>'Number of injectors:'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">1</prop><prop prop-type="Order">318</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label3.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label3.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">319</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label3.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label3.Top">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">320</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label3.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label3.Width">
+        <source>98</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">321</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label3.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label3.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">322</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label3.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label3.Caption">
+        <source>'Производ.:'</source>
+        <target>'Performance of inj.:'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">1</prop><prop prop-type="Order">323</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label4.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label4.Left">
+        <source>283</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">324</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label4.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label4.Top">
+        <source>40</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">325</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label4.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label4.Width">
+        <source>30</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">326</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label4.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label4.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">327</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label4.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label4.Caption">
+        <source>'шт.'</source>
+        <target>'pcs'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">1</prop><prop prop-type="Order">328</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label5.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label5.Left">
+        <source>283</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">329</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label5.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label5.Top">
+        <source>93</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">330</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label5.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label5.Width">
+        <source>78</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">331</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label5.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label5.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">332</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label5.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label5.Caption">
+        <source>'л./15 сек'</source>
+        <target>'l/15 sec'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">1</prop><prop prop-type="Order">333</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label6.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label6.Left">
+        <source>283</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">334</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label6.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label6.Top">
+        <source>144</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">335</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label6.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label6.Width">
+        <source>54</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">336</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label6.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label6.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">337</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label6.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label6.Caption">
+        <source>'раз(а)'</source>
+        <target>'times'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">1</prop><prop prop-type="Order">338</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label7.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label7.Left">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">339</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label7.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label7.Top">
+        <source>144</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">340</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label7.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label7.Width">
+        <source>134</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">341</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label7.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label7.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">342</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label7.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:Label7.Caption">
+        <source>'Срабатываний:'</source>
+        <target>'Workings inj.:'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">1</prop><prop prop-type="Order">343</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.Left">
+        <source>215</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">344</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">345</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.Width">
+        <source>62</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">346</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.Height">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">347</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">348</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.Text" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjCnt.Text">
+        <source>'6'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">349</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.Left">
+        <source>215</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">350</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.Top">
+        <source>85</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">351</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.Width">
+        <source>62</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">352</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.Height">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">353</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">354</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.Text" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjPower.Text">
+        <source>'0,0785'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">355</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.Left">
+        <source>215</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">356</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.Top">
+        <source>136</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">357</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.Width">
+        <source>62</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">358</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.Height">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">359</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">360</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.Text" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:GroupBox6.O:edInjFire.Text">
+        <source>'1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">361</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Left">
+        <source>162</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">362</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">363</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Width">
+        <source>210</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">364</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Height">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">365</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Style">
+        <source>csDropDownList</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">366</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.ItemHeight" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.ItemHeight">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">367</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">368</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.OnChange" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.OnChange">
+        <source>cbEngineDefChange</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">369</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[0]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[0]">
+        <source>'1JZ,2JZ-GE (1992-1996)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">370</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">(</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[1]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[1]">
+        <source>'1JZ-GTE (1992-1996)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">371</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[2]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[2]">
+        <source>'2JZ-GTE (1992-1996)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">372</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[3]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[3]">
+        <source>'1JZ-GE (1996-2000)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">373</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[4]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[4]">
+        <source>'2JZ-GE (1996-2000)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">374</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[5]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[5]">
+        <source>'1JZ-GTE (1996-2000)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">375</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[6]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[6]">
+        <source>'5S-FE'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">376</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[7]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[7]">
+        <source>'5A-FE'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">377</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[8]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[8]">
+        <source>'4E-FE, 5E-FE'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">378</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[9]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[9]">
+        <source>'4E-FE (после 1995)'</source>
+        <target>'4E-FE (after 1995)'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">1</prop><prop prop-type="Order">379</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[10]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[10]">
+        <source>'7M-GE'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">380</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[11]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[11]">
+        <source>'7M-GTE'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">381</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[12]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[12]">
+        <source>'1G-E'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">382</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[13]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[13]">
+        <source>'1G-FE'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">383</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[14]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[14]">
+        <source>'1G-GE'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">384</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[15]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[15]">
+        <source>'1G-GZE,-GTE (ран.)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">385</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[16]" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbEngineDef.Items.Strings[16]">
+        <source>'1G-GZE,-GTE (поздн.)'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">386</prop><prop prop-type="Type">TComboBox</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">)</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.Left">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">387</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.Top">
+        <source>264</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">388</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.Width">
+        <source>361</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">389</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.Height">
+        <source>57</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">390</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.Caption">
+        <source>'TEST: Учитывать принудительный холостой ход'</source>
+        <target>'TEST: Include forced idle'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">1</prop><prop prop-type="Order">391</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.TabOrder" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">392</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.WordWrap" resname="O:fmSettings.O:PageControl1.O:TabSheet3.O:cbInjTruncate.WordWrap">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">393</prop><prop prop-type="Type">TCheckBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet4.Caption">
+        <source>'О программе'</source>
+        <target>'About'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">1</prop><prop prop-type="Order">394</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.ImageIndex" resname="O:fmSettings.O:PageControl1.O:TabSheet4.ImageIndex">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">395</prop><prop prop-type="Type">TTabSheet</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.Left">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">396</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.Top">
+        <source>64</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">397</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.Width">
+        <source>428</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">398</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.Height">
+        <source>46</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">399</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.Caption">
+        <source>'Подробная информация о работе с программой на сайте:'</source>
+        <target>'MyEngine Internet page:'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">1</prop><prop prop-type="Order">400</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.WordWrap" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label10.WordWrap">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">401</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:lbVersion.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:lbVersion.Left">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">402</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:lbVersion.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:lbVersion.Top">
+        <source>19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">403</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:lbVersion.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:lbVersion.Width">
+        <source>76</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">404</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:lbVersion.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:lbVersion.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">405</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:lbVersion.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:lbVersion.Caption">
+        <source>'lbVersion'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">406</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Left" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Left">
+        <source>11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">407</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Top" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Top">
+        <source>119</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">408</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Width" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Width">
+        <source>206</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">409</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Height">
+        <source>23</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">410</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Cursor" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Cursor">
+        <source>crHandPoint</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">411</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Caption" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Caption">
+        <source>'http://primavistalab.com'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">6</prop><prop prop-type="Order">412</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Font.Charset" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">413</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Font.Color" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Font.Color">
+        <source>clBlue</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">414</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Font.Height" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Font.Height">
+        <source>-19</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">415</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Font.Name" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">416</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Font.Style" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.Font.Style">
+        <source>[fsUnderline]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">417</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.ParentFont" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.ParentFont">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">418</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.OnClick" resname="O:fmSettings.O:PageControl1.O:TabSheet4.O:Label9.OnClick">
+        <source>Label9Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">41293.9228745255</prop><prop prop-type="Status">0</prop><prop prop-type="Order">419</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

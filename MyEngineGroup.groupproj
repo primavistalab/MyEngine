@@ -1,0 +1,46 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{648da136-d0ce-444a-a1f6-d965a617d570}</ProjectGuid>
+  </PropertyGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Projects Include="ENG\MyEngine_ENG.bdsproj" />
+    <Projects Include="MyEngine.dproj">
+      <Dependencies>ENG\MyEngine_ENG.bdsproj</Dependencies>
+    </Projects>
+  </ItemGroup>
+  <ProjectExtensions>
+    <Borland.Personality>Default.Personality</Borland.Personality>
+    <Borland.ProjectType />
+    <BorlandProject>
+<BorlandProject xmlns=""><Default.Personality></Default.Personality></BorlandProject></BorlandProject>
+  </ProjectExtensions>
+  <Target Name="MyEngine" DependsOnTargets="MyEngine_ENG">
+    <MSBuild Projects="MyEngine.dproj" Targets="" />
+  </Target>
+  <Target Name="MyEngine:Clean" DependsOnTargets="MyEngine_ENG:Clean">
+    <MSBuild Projects="MyEngine.dproj" Targets="Clean" />
+  </Target>
+  <Target Name="MyEngine:Make" DependsOnTargets="MyEngine_ENG:Make">
+    <MSBuild Projects="MyEngine.dproj" Targets="Make" />
+  </Target>
+  <Target Name="MyEngine_ENG">
+    <MSBuild Projects="ENG\MyEngine_ENG.bdsproj" Targets="" />
+  </Target>
+  <Target Name="MyEngine_ENG:Clean">
+    <MSBuild Projects="ENG\MyEngine_ENG.bdsproj" Targets="Clean" />
+  </Target>
+  <Target Name="MyEngine_ENG:Make">
+    <MSBuild Projects="ENG\MyEngine_ENG.bdsproj" Targets="Make" />
+  </Target>
+  <Target Name="Build">
+    <CallTarget Targets="MyEngine;MyEngine_ENG" />
+  </Target>
+  <Target Name="Clean">
+    <CallTarget Targets="MyEngine:Clean;MyEngine_ENG:Clean" />
+  </Target>
+  <Target Name="Make">
+    <CallTarget Targets="MyEngine:Make;MyEngine_ENG:Make" />
+  </Target>
+  <Import Condition="Exists('$(MSBuildBinPath)\Borland.Group.Targets')" Project="$(MSBuildBinPath)\Borland.Group.Targets" />
+</Project>
