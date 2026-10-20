@@ -119,6 +119,8 @@ begin
 
       // Бензобак
       FuelTank:=FuelTank-_FuelChargeNow;
+      if FuelTank<0 then
+        FuelTank:=0;
 
       // считам средние показатели
 
@@ -136,7 +138,9 @@ begin
 
       // До остановки при таком среднем расходе на 100 км
       if (AvrgFuelChargeBy100km>0.1) then
-		    ToStop:=FuelTank/AvrgFuelChargeBy100km*100.0;
+		    ToStop:=FuelTank/AvrgFuelChargeBy100km*100.0
+      else
+        ToStop:=0;
 
       // Запоминаем максимальную скорость
       if _recalc._08_Speed>MaxSpeed then

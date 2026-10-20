@@ -306,6 +306,8 @@ begin
   g_trip_comp.ODO_A:=_ini.ReadFloat('TripPC','ODO_A',0);
   g_trip_comp.ODO_B:=_ini.ReadFloat('TripPC','ODO_B',0);
   g_trip_comp.FuelTank:=_ini.ReadFloat('TripPC','FuelTank',0);
+  if g_trip_comp.FuelTank<0 then
+    g_trip_comp.FuelTank:=0;
   g_trip_comp.MaxSpeed:=_ini.ReadInteger('TripPC','MaxSpeed',0);
 
   // по просьбе avgefke
@@ -476,30 +478,38 @@ end;
 
 procedure TfmSettings.btUpdateCOMsClick(Sender: TObject);
 var
-  chComPort : array[0..15] of char;
   i : integer;
-  hSource : THandle;
+  PortRegistry : TRegistry;
+  ValueNames : TStringList;
+  PortName : string;
 begin
   cb_ports.Items.Clear;
 
-  for i:=1 to 20 do
-    begin
-      ZeroMemory(@chComPort,sizeof(chComPort));
+  PortRegistry:=TRegistry.Create(KEY_READ);
+  ValueNames:=TStringList.Create;
+  try
+    PortRegistry.RootKey:=HKEY_LOCAL_MACHINE;
+    if PortRegistry.OpenKeyReadOnly('\HARDWARE\DEVICEMAP\SERIALCOMM') then
+      begin
+        PortRegistry.GetValueNames(ValueNames);
+        for i:=0 to ValueNames.Count-1 do
+          begin
+            PortName:=PortRegistry.ReadString(ValueNames[i]);
+            if (PortName<>'') and (cb_ports.Items.IndexOf(PortName)=-1) then
+              cb_ports.Items.Add(PortName);
+          end;
+      end;
+  finally
+    ValueNames.Free;
+    PortRegistry.Free;
+  end;
 
-      StrPCopy(chComPort, '\\.\COM'+IntToStr(i));
-
-      hSource := CreateFile(chComPort, GENERIC_READ or GENERIC_WRITE,
-        0, nil, OPEN_EXISTING, 0, 0);
-
-      if hSource<>INVALID_HANDLE_VALUE then
-        begin
-          CloseHandle(hSource);
-          cb_ports.Items.Add('COM'+IntToStr(i));
-        end;
-    end;
+  if (g_settings.strComPort<>'') and
+    (cb_ports.Items.IndexOf(g_settings.strComPort)=-1) then
+      cb_ports.Items.Add(g_settings.strComPort);
 
   if cb_ports.Items.Count=0 then
-    Application.MessageBox('В системе не обнаружено свободных COM портов!'#13#13'Примите меры!',cpt,MB_ICONWARNING)
+    Application.MessageBox('В системе не обнаружено COM портов!'#13#13'Примите меры!',cpt,MB_ICONWARNING)
   else
     begin
       // выделяем COM порт из настроект
