@@ -161,6 +161,7 @@ var
   _len, i, j : int;
 
   rcvPacket, pTemp : PPacket;
+  RxMessage : PRxMessage;
 
   _bitFrame : array[1..163] of byte;      // 163 бита - длина нормального кадра
   _bitCnt, B : byte;
@@ -169,6 +170,7 @@ var
 
   _frame : frame_t;
   _recalc : recalc_frame_t;
+  FrameTimestamp : Int64;
 
   dT : c_float;    // время между пакетами в секунадх
 begin
@@ -177,10 +179,26 @@ begin
   // число пакетов показывает сколько раз менялся 0 на 1
   // набор полученных пакетов за раз = 1 кадру из 163 бит
 
-  rcvPacket:=PPacket(_msg.WParam);
-  _len:=_msg.LParam; // div SizeOf(TPacket);
+  RxMessage:=PRxMessage(_msg.WParam);
+  if RxMessage=nil then
+    exit;
 
-  pTemp:=rcvPacket;
+  if not g_bActive then
+    begin
+      FreeMem(RxMessage);
+      exit;
+    end;
+
+  _len:=RxMessage^.PacketCount;
+  if _len<=0 then
+    begin
+      FreeMem(RxMessage);
+      exit;
+    end;
+
+  FrameTimestamp:=RxMessage^.Timestamp;
+  rcvPacket:=@RxMessage^.Packets[0];
+  pTemp:=PPacket(RxMessage);
 
   // перенесем все биты полученного пакета в сплошной массив _bitFrame
   // для дальнейшей обработки
@@ -269,8 +287,8 @@ begin
   // ....все стоповые биты соответствуют протоколу...
 
   // прошедшее время в секундах
-  dT := (g_tmNow - g_tmLast) / g_speed;
-  g_tmLast := g_tmNow;
+  dT := (FrameTimestamp - g_tmLast) / g_speed;
+  g_tmLast := FrameTimestamp;
 
   if (dT<0.1) or (dT>3.0) then   // должно быть ~1.3 сек, так же отсекаем первый пакет, когда tmLast было = 0
     begin
@@ -366,6 +384,7 @@ begin
         end;
 
       ZeroMemory(@g_ComPort,sizeof(g_ComPort));
+      g_tmLast:=0;
       if OpenComm(g_settings.strComPort,g_ComPort) then
         begin
           {$ifdef DEBUG}

@@ -33,6 +33,13 @@ type
   end;
   PPacket = ^TPacket;
 
+  TRxMessage = record
+    Timestamp   : Int64;
+    PacketCount : integer;
+    Packets     : array[0..0] of TPacket;
+  end;
+  PRxMessage = ^TRxMessage;
+
 type
   // Структура объединяет параметры ком порта
   // и считанную с него информацию
@@ -305,7 +312,6 @@ var
   g_ComPort     : TComVar;
 
   // для подсчета времени между пакетами
-  g_tmNow   : Int64 = 0;
   g_tmLast  : Int64 = 0;
   g_speed   : Int64 = 0;
 

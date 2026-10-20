@@ -18,6 +18,9 @@ function OpenComm(strPort : string; var Com_Var : TComVar) : boolean;
 
 implementation
 
+const
+  DCB_FLAG_BINARY = $00000001;
+
 var
   speed, timenew, timeold : int64;
 
@@ -39,9 +42,9 @@ begin
 end;
 
 var
-  Mask,Trans,Errs,ModemState : DWord;
+  Mask,Trans,Errs,ModemState,LastError,WaitResult : DWord;
   Ovr : TOverlapped;
-  Reciv : pointer;
+  RxMessage : PRxMessage;
   cnt: integer;
   summa: Int64;
   first, last, len: integer;
@@ -57,9 +60,13 @@ begin
   //инициализируем TOverlapped структуру
   FillChar(Ovr,SizeOf(TOverlapped),0);
   Ovr.hEvent := CreateEvent(nil,TRUE,FALSE,nil);
+  if Ovr.hEvent=0 then
+    exit;
+
+  try
   //стартуем бесконечный цикл
-  GetCommModemStatus(Parms.hPort,ModemState);
-  Parms.Terminated:=False;
+  if not GetCommModemStatus(Parms.hPort,ModemState) then
+    exit;
   while not Parms.Terminated do {with Parms do}
     begin
 
@@ -68,14 +75,27 @@ begin
 
       Mask := 0;
       //запрашиваем (ожидаем) маску эвентов
-      if (not WaitCommEvent(Parms.hPort,Mask,@Ovr)) then
+      if not WaitCommEvent(Parms.hPort,Mask,@Ovr) then
+        begin
         //обрабатываем "отложенную" операцию ввода-вывода
-        if (GetLastError() = ERROR_IO_PENDING) and
-           (WaitForSingleObject(Ovr.hEvent,INFINITE)=Wait_Object_0) then
-              GetOverlappedResult(Parms.hPort,Ovr,Trans,False);
+          LastError:=GetLastError();
+          if LastError<>ERROR_IO_PENDING then
+            break;
+
+          WaitResult:=WaitForSingleObject(Ovr.hEvent,INFINITE);
+          if WaitResult<>Wait_Object_0 then
+            break;
+
+          if Parms.Terminated then
+            break;
+
+          if not GetOverlappedResult(Parms.hPort,Ovr,Trans,False) then
+            break;
+        end;
 
       //очищаем ошибки с получением статуса порта, обязательно!!!
-      ClearCommError(Parms.hPort,Errs,@Parms.Stat);
+      if not ClearCommError(Parms.hPort,Errs,@Parms.Stat) then
+        break;
 
       if Parms.Terminated then
         break;
@@ -86,7 +106,8 @@ begin
       //============
       if (Mask and EV_DSR) = EV_DSR then    // изменился сигнал
         begin
-          GetCommModemStatus(Parms.hPort,ModemState);
+          if not GetCommModemStatus(Parms.hPort,ModemState) then
+            break;
 
           if (ModemState and MS_DSR_ON) = MS_DSR_ON then
             Parms.RecivBuff[cnt].Value:=0
@@ -94,7 +115,7 @@ begin
             Parms.RecivBuff[cnt].Value:=1;
 
           if g_settings.InvAdapter then
-            Parms.RecivBuff[cnt].Value:=not Parms.RecivBuff[cnt].Value;
+            Parms.RecivBuff[cnt].Value:=1-Parms.RecivBuff[cnt].Value;
 
           if timeold=0 then
             QueryPerformanceCounter(timeold);
@@ -119,14 +140,20 @@ begin
                     begin
                       last:=cnt;
                       len:=last-first+1;
-                      GetMem(Reciv, (len)*SizeOf(TPacket));
-                      Move(Parms.RecivBuff[first], Reciv^, (len)*SizeOf(TPacket));
+
+                      if len>0 then
+                        begin
+                          GetMem(RxMessage,SizeOf(TRxMessage)+(len-1)*SizeOf(TPacket));
+                          QueryPerformanceCounter(RxMessage^.Timestamp);
+                          RxMessage^.PacketCount:=len;
+                          Move(Parms.RecivBuff[first],RxMessage^.Packets[0],len*SizeOf(TPacket));
+
+                          if not PostMessage(fmMainForm.Handle,cmRxByte,Integer(RxMessage),0) then
+                            FreeMem(RxMessage);
+                        end;
+
                       Move(Parms.RecivBuff[last], Parms.RecivBuff[0], SizeOf(TPacket));
                       //шлем сообщение основному потоку
-                      QueryPerformanceCounter(g_tmNow);
-                      PostMessage(fmMainForm.Handle,cmRxByte,Integer(Reciv),(len) {*SizeOf(TPacket)});
-
-                      Parms.Terminated:=False;
                       cnt:=0;
                       summa:=0;
                     end;
@@ -135,11 +162,17 @@ begin
 
           Inc(cnt);
           if cnt>=328 then
-            cnt:=0;
+            begin
+              cnt:=0;
+              summa:=0;
+              first:=0;
+            end;
         end; //if (Mask and EV_DSR) = EV_DSR then begin
     end;
 
-  CloseHandle(Ovr.hEvent);
+  finally
+    CloseHandle(Ovr.hEvent);
+  end;
 end;
 
 function OpenComm(strPort : string; var Com_Var : TComVar) : boolean;
@@ -162,6 +195,14 @@ begin
       //выполняем настройку порта с новым DCB
       ZeroMemory(@DCB, sizeof(DCB));
       DCB.DCBlength:=SizeOf(DCB);
+      if not GetCommState(hPort,DCB) then
+        begin
+          CloseHandle(hPort);
+          hPort:=INVALID_HANDLE_VALUE;
+          Exit;
+        end;
+
+      DCB.Flags:=DCB_FLAG_BINARY;
       DCB.BaudRate := 9600;
       DCB.ByteSize := 8;
       DCB.Parity := NoParity;
@@ -177,6 +218,7 @@ begin
         SetCommState(hPort,DCB)) then
           begin
             CloseHandle(hPort);
+            hPort:=INVALID_HANDLE_VALUE;
             Exit;
           end;
 
@@ -197,11 +239,12 @@ begin
       if CommThread = 0 then
         begin
           CloseHandle(hPort);
+          hPort:=INVALID_HANDLE_VALUE;
           Exit;
         end;
 
       //устанавливаем приоритет дочернего потока
-      SetThreadPriority(CommThread, THREAD_PRIORITY_TIME_CRITICAL);
+      SetThreadPriority(CommThread, THREAD_PRIORITY_HIGHEST);
       Result := True;
     end;
 end;
@@ -209,9 +252,22 @@ end;
 function CloseComm(var Com_Var : TComVar): boolean;
 begin
   Com_Var.Terminated := True;
-  SetCommMask(Com_Var.hPort,0);
-  Sleep(100);
-  CloseHandle(Com_Var.hPort);
+
+  if (Com_Var.hPort<>0) and (Com_Var.hPort<>INVALID_HANDLE_VALUE) then
+    SetCommMask(Com_Var.hPort,0);
+
+  if Com_Var.CommThread<>0 then
+    begin
+      WaitForSingleObject(Com_Var.CommThread,INFINITE);
+      CloseHandle(Com_Var.CommThread);
+      Com_Var.CommThread:=0;
+    end;
+
+  if (Com_Var.hPort<>0) and (Com_Var.hPort<>INVALID_HANDLE_VALUE) then
+    begin
+      CloseHandle(Com_Var.hPort);
+      Com_Var.hPort:=INVALID_HANDLE_VALUE;
+    end;
 
   Result := True;
 end;

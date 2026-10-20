@@ -57,7 +57,7 @@ var
 begin
   if edValue.Text='' then
     ModalResult:=mrCancel
-  else if TryStrToFloatAny(edValue.Text, _fuel) then
+  else if TryStrToFloatAny(edValue.Text, _fuel) and (_fuel>=0) then
     begin
       g_trip_comp.FuelTank:=g_trip_comp.FuelTank + _fuel;
       ModalResult:=mrOk;
